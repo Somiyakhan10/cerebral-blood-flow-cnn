@@ -14,4 +14,4 @@ This project uses a **Convolutional Neural Network (CNN)** to predict cerebral b
 ---
 
 ## Result
-![MESI Blood Flow Curve](results/cnn_resconstruction.png)
+![](results/cnn_resconstruction.png)
